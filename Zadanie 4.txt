@@ -1,0 +1,21 @@
+Zadanie zaliczeniowe 4
+
+
+Dla pliku w folderze ZADANIE_4 wykonać wykresy dla wartości:
+	• co_ppm_dry, 
+	• no_ppm_dry, 
+	• o2_dry,
+	• co2_dry, 
+	• velocity-magnitude. 
+
+
+
+Wykresy powinny być zgrupowane (subplot), a wartości ograniczone:
+	• O2: 0-15%; 
+	• CO2: 0-20%; 
+	• CO: 0-100k ppm, skala logarytmiczna;
+	• NO: 0-30000 ppm;
+	• V magnitude: 5-100 m/s. 
+
+
+Przykładowy wykres (nieopisany) dla tlenu znajduje się w folderze ZADANIE_4.
